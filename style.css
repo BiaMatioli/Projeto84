@@ -1,0 +1,16 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+#canvas1 {
+    margin-top: 10px;
+    border-width: 40px;
+    background-color: white;
+    border-style: ridge;
+    border-color: paleturquoise;
+}
+
+h1, h4 {
+    color: red !important;
+}
